@@ -2,8 +2,8 @@
 
 | File Name          | Description                                                                |
 | ------------------ | -------------------------------------------------------------------------- |
-| `flags.bin`        | Binary data file                                                           |
-| `flags.rc`         | Resource scrip                                                             |
+| `flags.bin`        | Binary data file.                                                          |
+| `flags.rc`         | Resource scrip.                                                            |
 | `flags.RES`        | Compiled resource file generated from `flags.rc`.                          |
 | `README.md`        | Project documentation.                                                     |
 | `Zip.cbproj`       | C++ Builder project file for the application.                              |
