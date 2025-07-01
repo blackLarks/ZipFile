@@ -81,3 +81,6 @@ String selectedFile = flagFiles[index];
 ImageFlag->Picture->LoadFromFile(selectedFile);
 ```
 
+## Application Interface
+![image](https://github.com/user-attachments/assets/d9b85287-76d6-4fc4-a6fe-abf06bf7cbb7)
+
