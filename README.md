@@ -2,16 +2,15 @@
 
 | File Name          | Description                                                                |
 | ------------------ | -------------------------------------------------------------------------- |
-| `flags.bin`        | Binary data file, likely generated during the build process.               |
-| `flags.rc`         | Resource script defining version info, icons, or other resources.          |
+| `flags.bin`        | Binary data file                                                           |
+| `flags.rc`         | Resource scrip                                                             |
 | `flags.RES`        | Compiled resource file generated from `flags.rc`.                          |
-| `README.md`        | Project documentation and usage instructions (you are here).               |
-| `Zip.cbproj`       | C++Builder project file for the application.                               |
-| `Zip.cbproj.local` | User-specific local settings for the C++Builder project.                   |
-| `Zip.cpp`          | Core implementation file for ZIP functionality.                            |
-| `Zip1.cpp`         | Supplementary source file, possibly for extended or testing functionality. |
-| `Zip1.dfm`         | Delphi Form file containing the UI layout for the application.             |
-| `Zip1.h`           | Header file with declarations corresponding to `Zip1.cpp`.                 |
+| `README.md`        | Project documentation.                                                     |
+| `Zip.cbproj`       | C++ Builder project file for the application.                              |
+| `Zipu1.cpp`        | Core implementation file for ZIP functionality.                            |
+| `Zip1u1.dfm`       | Delphi Form file containing the UI layout for the application.             |
+| `Zip1u1.h`         | Header file with declarations corresponding to `Zip1.cpp`.                 |
+| `Zip1.h`           | Main Application Entry Point.                                              |
 
 
 We embed a file (like a PNG, ZIP, etc.) into your `.exe` as a **resource**.
